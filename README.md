@@ -1,5 +1,9 @@
-# Python Developer Roadmap
+# Python Developer Roadmap 2 Tahun
 Python depeloper roadmap merupaka peta belajar pemrograman Python
+
+## Fundamental - 3 Bulan  
+## Spesialisasi - 9 Bulan 
+## Persiapan Karir - 1 Tahun 
 
 
 
